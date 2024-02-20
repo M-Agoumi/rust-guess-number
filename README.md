@@ -4,7 +4,7 @@
 
 ## How to Run
 
-<p>To run the game, you need to have Rust and Cargo installed on your machine. If you don't have Rust installed, you can install it from the [link text itself] .</p>
+To run the game, you need to have Rust and Cargo installed on your machine. If you don't have Rust installed, you can install it from the [official Rust website][1].
 
 Once Rust is installed, follow these steps:
 
@@ -26,4 +26,4 @@ cargo run
 > [!NOTE]
 > Good luck, and have fun!
 
-[link text itself]: http://www.reddit.com
+[1]: http://www.rust-lang.org
